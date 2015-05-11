@@ -1,0 +1,6 @@
+#Enter file contents here
+int func(void)
+{
+   test merge;
+   return 1;
+}
