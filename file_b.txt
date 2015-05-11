@@ -2,5 +2,6 @@
 int func(void)
 {
    test merge;
+   me add
    return 1;
 }
